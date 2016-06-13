@@ -1,0 +1,185 @@
+* {
+	font-family: sans-serif;
+	margin: auto;
+}
+.all {
+	width: 950px;
+}
+.cursor {
+	cursor: pointer;
+}
+a {
+	text-decoration: none;
+}
+.head {
+	width: 950px;
+	height: 200%;
+	font-size: 13px;
+}
+.test {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.accueil {
+	float: right;
+	margin-right: 25px;
+}
+.ionis {
+	margin-left: 25px;
+}
+.loundge {
+	background-color: #008000;
+	color: #FFFFFF;
+	height: 380px;
+}
+.margin {
+	margin-bottom: 15px;
+}
+.copy {
+	font-size: 12px;
+	text-transform: uppercase;
+}
+.align {
+	padding: 15px 0 15px 150px;
+}
+.float {
+	float: left;
+}
+.pick {
+	list-style: none;
+	color: #000000;
+	padding: 20px;
+}
+.pick:hover {
+	list-style-image: url(fleche.jpg);
+	background-color: #000000;
+	list-style-position: inside;
+	padding: 20px;
+	width: 120%;
+	transition: all 0s;
+	color: #FFFFFF;
+}
+.price {
+	list-style: none;
+	color: #FFFFFF;
+	float: left;
+	width: auto;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	margin: 0px 0px 1px 0px;
+	clear: both;
+}
+.price:hover {
+	background-color:#C0C0C0;
+	width: 100%;
+	transition: all 0s;
+	color: #008000;
+	cursor: pointer;
+}
+.situation {
+	margin: 15px 25px 0px 0px;
+	background-color: #C0C0C0;
+	float: right;
+	width: 640px;
+}
+.couloir {
+	float: left;
+	margin: 15px 10px 15px 10px;
+	font-size: 12px;
+}
+.green {
+	color: #008000;
+}
+.white {
+	color: #FFFFFF;
+}
+.bienvenue {
+	float: left;
+	margin: 10px 10px 0px 10px;
+}
+.descriptif {
+	width: 275px;
+}
+.size {
+	font-size: 12px;
+}
+.sit {
+	font-size: 15px;
+	border-bottom: 1px solid black;
+	float: left;
+	width: 270px;
+	margin-top: 15px;	
+}
+.offrei {
+	float: left;
+	margin: 0px 10px 10px 10px;
+	clear: both;
+}
+.local {
+	font-size: 15px;
+	border-bottom: 1px solid black;
+	float: left;
+	width: 200px;
+	margin-top: 15px;
+}
+.maj {
+	text-transform: uppercase;
+}
+.left {
+	float: left;
+}
+.flooat {
+	float: right;
+}
+.maps {
+	width: 255px;
+}
+.offres {
+	background-color: #C0C0C0;
+	margin: 20px 10px 0px 0px;
+	float: left;
+	width: 315px;
+}
+.chambres {
+	background-color: #FFFF00;
+}
+.speciales {
+	background-color: #008000;
+	margin: 20px 25px 0 0;
+	float: left;
+	width: 315px;
+}
+.leggs {
+	background-color: #000000;
+	color: #FFFFFF;
+	width: 950px;
+	clear: both;
+}
+.bouton {
+	background-color: #008000;
+    padding: 8px 0;
+    text-align: center;
+    float: right;
+    margin: 0px 10px 10px 0px;
+    font-size: 0.75em;
+    width: 100px;
+    color: #FFFFFF;
+}
+.bouton:hover {
+    background: #000000;
+    background: -webkit-linear-gradient( #008000, #000000);
+}
+.boutond {
+	background-color: #008000;
+    padding: 8px 0;
+    text-align: center;
+    float: right;
+    margin: 0px 20px 10px 50px;
+    font-size: 0.75em;
+    width: 100px;
+    color: #FFFFFF;
+}
+.boutond:hover {
+    background: #000000;
+    background: -webkit-linear-gradient( #008000, #000000);
+}
